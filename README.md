@@ -6,14 +6,14 @@ A Minecraft Spigot plugin
 
 
 ## Supported Versions:
-⚬ 1.8
-⚬ 1.12
-⚬ 1.20
-⚬ 1.21
+- 1.8
+- 1.12
+- 1.20
+- 1.21
 
 ## Commands:
-⚬ /englishorspanish - To start English or Spanish? on the whole server
-⚬ /eos - An alias of "/englishorspanish" .w.
+- /englishorspanish - To start English or Spanish? on the whole server
+- /eos - An alias of "/englishorspanish" .w.
 
 ## Permissions:
 Nope, everyone can use it
