@@ -1,2 +1,15 @@
-# EnglishOrSpanish
-English or Spanish meme in Minecraft
+# English or Spanish?
+English or Spanish in Minecraft
+[image](https://github.com/user-attachments/assets/f05fdff9-d303-4359-bad6-1faa36af4322)
+
+
+## Commands:
+⚬ /englishorspanish - To start English or Spanish? on the whole server
+⚬ /eos - An alias of "/englishorspanish" .w.
+
+## Permissions:
+Nope, everyone can use it
+
+## How to play?
+wHoEvEr mOvEs fIrSt iS ꓨⱯ⅄
+Just use the command "/eos" or "/englishorspanish" and everyone will stop moving uwu!
