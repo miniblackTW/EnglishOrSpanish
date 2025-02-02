@@ -1,7 +1,7 @@
 name: EnglishOrSpanish
 version: 1.0
 main: me.miniblacktw.eos.Main
-api-version: 1.8
+api-version: 1.21
 description: English or Spanish?
 author: miniblack_TW
 commands:
