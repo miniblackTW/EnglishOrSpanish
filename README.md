@@ -1,8 +1,15 @@
 # English or Spanish?
 English or Spanish in Minecraft
+A Minecraft Spigot plugin
 
 ![image](https://github.com/user-attachments/assets/f05fdff9-d303-4359-bad6-1faa36af4322)
 
+
+## Supported Versions:
+⚬ 1.8
+⚬ 1.12
+⚬ 1.20
+⚬ 1.21
 
 ## Commands:
 ⚬ /englishorspanish - To start English or Spanish? on the whole server
