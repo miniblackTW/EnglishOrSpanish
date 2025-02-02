@@ -1,0 +1,10 @@
+name: EnglishOrSpanish
+version: 1.0
+main: me.miniblacktw.eos.Main
+api-version: 1.8
+description: English or Spanish?
+author: miniblack_TW
+commands:
+  englishorspanish:
+    description: To start "English or Spanish?" on the whole server ☠
+    aliases: [eos]
