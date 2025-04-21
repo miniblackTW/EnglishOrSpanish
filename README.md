@@ -18,4 +18,4 @@ A Minecraft Spigot plugin
 Nope, everyone can use it
 
 ## How to play?
-wHoEvEr mOvEs fIrSt iS ꓨⱯ⅄! Just use the command "/eos" or "/englishorspanish" and everyone will stop moving uwu
+wHoEvEr mOvEs fIrSt iS ꓨⱯ⅄! Just use the command "/eos" or "/englishorspanish" and everyone may stop moving uwu
